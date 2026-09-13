@@ -75,7 +75,7 @@ customers ──1:N── orders ──1:N── order_items ──N:1── men
               └──N:1── delivery_partners
 ```
 
-![Model Relationships](https://github.com/akashkum121/Swiggy_Analysis_Project/blob/main/Screenshots/Model_Relationship.png)
+![Model Relationships](https://github.com/akashkum121/Swiggy_Analysis_Project/blob/main/Screenshots/Model%20Relationship.png)
 
 ---
 
