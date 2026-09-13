@@ -2,7 +2,7 @@
 
 **An end-to-end data analytics project** — from a raw, messy 420K+ row food-delivery dataset to a fully interactive Power BI dashboard, uncovering a critical order-fulfillment issue hidden behind aggregate order-volume metrics.
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](https://github.com/akashkum121/Swiggy_Analysis_Project/blob/main/Screenshots/Dashboard.png)
 
 ---
 
@@ -75,7 +75,7 @@ customers ──1:N── orders ──1:N── order_items ──N:1── men
               └──N:1── delivery_partners
 ```
 
-![Model Relationships](model_relationships.png)
+![Model Relationships](https://github.com/akashkum121/Swiggy_Analysis_Project/blob/main/Screenshots/Model_Relationship.png)
 
 ---
 
